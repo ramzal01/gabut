@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+.navbar-toko {
+
+    background-color: rgb(245, 150, 164);
+    height: 60px;
+    width: 100%;
+    border: pink;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+
+.menu {
+    display: flex;
+   
+}
+.menu-type {
+    background-color: pink;
+    height: 35px;
+    width: 90pc;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 10px 7px  rgb(0, 0, 0);
+    box-shadow: grey;
+}
+.menu-type:hover {
+    background-color: aliceblue;
+    color: gold;
+    padding: 1px;
+    border: none;
+    border-radius: 20px ;
+    cursor: pointer;
+    align-items: center;
+       
+    transition: backgraun-color-.3s;
+}
+.menu1 {
+    display: flex;
+    background-color: #ffffff;
+    height: 150px;
+    width:500pxpx ;
+    border: none;
+    border-radius: 30px;
+}
+.menu-pilihan {
+    background-color: rgb(190, 191, 192);
+    width: 300px;
+    border: none;
+    border-radius: 40px;
+    box-shadow: 5px 7px 10px;
+}
+.menu-h3 {
+    text-align: center;
+}
